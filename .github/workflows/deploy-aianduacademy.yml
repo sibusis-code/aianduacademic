@@ -35,7 +35,7 @@
 #   AIANDU_FTP_PASSWORD  its password
 # Set them with:  printf '%s' 'value' | gh secret set AIANDU_FTP_USERNAME
 # They hold the same Xneelo credentials as every other academy.
-# Repository: github.com/sibusis-code/aianduacademic (connected 3 Nov 2026).
+# Repository: github.com/sibusis-code/aianduacademic (connected 3 Nov 2026; pushed twice so GitHub registers this workflow).
 #
 # Ask Xneelo for an FTP user whose home is public_html/aiandu if the panel
 # allows it. Then the credential in this repository physically cannot reach the
